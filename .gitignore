@@ -1,0 +1,7 @@
+node_modules
+dist
+assessment/.env
+assessment/cypress/screenshots/
+assesment_result.json
+assessment/assesment_result.json
+assessment/cypressResults.json
